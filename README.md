@@ -33,9 +33,9 @@ The system utilizes three primary formulas for characterization:
 4. Analyze the **Periodogram** for the power spike at the detected period.
 
 ## 👥 Authors (FCSE)
-* **Hassan Khalid** (2023435)
-* **Saad Mirza** (2023498)
-* **Moiz Kakakhel** (2023315)
+* **Hassan Khalid** 
+* **Saad Mirza** 
+* **Moiz Kakakhel** 
 
 ---
 **Supervised by:** Sir Zaheer  
