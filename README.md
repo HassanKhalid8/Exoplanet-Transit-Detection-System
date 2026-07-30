@@ -1,30 +1,30 @@
 <!-- ============================ ANIMATED HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,40:2e1065,100:22d3ee&height=210&section=header&text=Exoplanet%20Transit%20Detection&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Finding%20Hidden%20Worlds%20in%20Noisy%20Starlight&descAlignY=58&descSize=16" width="100%" alt="Exoplanet Transit Detection System"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04120c,40:065f46,100:34d399&height=210&section=header&text=Exoplanet%20Transit%20Detection&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Finding%20Hidden%20Worlds%20in%20Noisy%20Starlight&descAlignY=58&descSize=16" width="100%" alt="Exoplanet Transit Detection System"/>
 </p>
 
 <p align="center">
   <a href="#-quick-start">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=Box+Least+Squares+as+a+Matched+Filter;Savitzky-Golay+Preserves+Ingress+and+Egress;Phase+Folding+for+Coherent+Integration;Keplerian+Inverse+Modeling+of+the+Orbit;WASP-12b+Recovered+at+1.0856+Days" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=34D399&center=true&vCenter=true&width=800&height=45&lines=Box+Least+Squares+as+a+Matched+Filter;Savitzky-Golay+Preserves+Ingress+and+Egress;Phase+Folding+for+Coherent+Integration;Keplerian+Inverse+Modeling+of+the+Orbit;WASP-12b+Recovered+at+1.0856+Days" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-App_Designer_GUI-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Signal_Processing-Toolbox-FF6F00?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Toolbox"/>
-  <img src="https://img.shields.io/badge/Method-Transit_Photometry-A78BFA?style=for-the-badge&logo=spacex&logoColor=white" alt="Method"/>
-  <img src="https://img.shields.io/badge/Course-Signals_and_Systems-10B981?style=for-the-badge" alt="Course"/>
+  <img src="https://img.shields.io/badge/MATLAB-App_Designer_GUI-065F46?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Signal_Processing-Toolbox-0F766E?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Toolbox"/>
+  <img src="https://img.shields.io/badge/Method-Transit_Photometry-047857?style=for-the-badge&logo=spacex&logoColor=white" alt="Method"/>
+  <img src="https://img.shields.io/badge/Course-Signals_and_Systems-0D9488?style=for-the-badge" alt="Course"/>
 </p>
 
 <p align="center">
-  <a href="docs/Exoplanet%20Detection%20System%20Report.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84_Project_Report-PDF-EF4444?style=flat-square" alt="Report"/></a>
-  <a href="#-screenshot-gallery"><img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F_Gallery-7_Screenshots-8B5CF6?style=flat-square" alt="Gallery"/></a>
-  <a href="#-transit-animation"><img src="https://img.shields.io/badge/%F0%9F%8E%AC_Transit_Animation-MP4-F59E0B?style=flat-square" alt="Animation"/></a>
-  <a href="ExoplanetDetectionSystem.m"><img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_Source-ExoplanetDetectionSystem.m-10B981?style=flat-square" alt="Source"/></a>
-  <a href="#-the-team"><img src="https://img.shields.io/badge/%F0%9F%91%A5_Team-3_Members-06B6D4?style=flat-square" alt="Team"/></a>
+  <a href="docs/Exoplanet%20Detection%20System%20Report.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84_Project_Report-PDF-059669?style=flat-square" alt="Report"/></a>
+  <a href="#-screenshot-gallery"><img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F_Gallery-7_Screenshots-0D9488?style=flat-square" alt="Gallery"/></a>
+  <a href="#-transit-animation"><img src="https://img.shields.io/badge/%F0%9F%8E%AC_Transit_Animation-MP4-047857?style=flat-square" alt="Animation"/></a>
+  <a href="ExoplanetDetectionSystem.m"><img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_Source-ExoplanetDetectionSystem.m-0F766E?style=flat-square" alt="Source"/></a>
+  <a href="#-the-team"><img src="https://img.shields.io/badge/%F0%9F%91%A5_Team-3_Members-065F46?style=flat-square" alt="Team"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 🌌 What This Is
 
@@ -46,32 +46,32 @@ square wave.
 > **Institution:** FCSE
 > **Submitted to:** Sir Zaheer · **Course Instructor:** Dr. Hanif
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 👥 The Team
 
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/%F0%9F%9B%B0%EF%B8%8F-Hassan_Khalid-A78BFA?style=for-the-badge" alt="Hassan Khalid"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9B%B0%EF%B8%8F-Hassan_Khalid-059669?style=for-the-badge" alt="Hassan Khalid"/>
   <br/><br/><b>Hassan Khalid</b>
   <br/><sub>FCSE · 2023435</sub>
   <br/><br/><a href="https://github.com/HassanKhalid8"><img src="https://img.shields.io/badge/GitHub-HassanKhalid8-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </td>
 <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/%F0%9F%94%AD-Saad_Mirza-22D3EE?style=for-the-badge" alt="Saad Mirza"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%AD-Saad_Mirza-0D9488?style=for-the-badge" alt="Saad Mirza"/>
   <br/><br/><b>Saad Mirza</b>
   <br/><sub>FCSE · 2023498</sub>
 </td>
 <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/%E2%AD%90-Moiz_Kakakhel-F59E0B?style=for-the-badge" alt="Moiz Kakakhel"/>
+  <img src="https://img.shields.io/badge/%E2%AD%90-Moiz_Kakakhel-047857?style=for-the-badge" alt="Moiz Kakakhel"/>
   <br/><br/><b>Moiz Kakakhel</b>
   <br/><sub>FCSE · 2023315</sub>
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 🔭 Signal Processing Pipeline
 
@@ -89,15 +89,15 @@ flowchart TD
 
     A --> B --> C --> D --> E --> F --> G --> H --> I
 
-    classDef acq fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#e0e7ff
-    classDef norm fill:#0c2340,stroke:#38bdf8,stroke-width:2px,color:#e0f2fe
-    classDef cond fill:#0f172a,stroke:#22d3ee,stroke-width:2px,color:#cffafe
-    classDef bls fill:#3b0764,stroke:#a78bfa,stroke-width:2px,color:#f3e8ff
-    classDef phys fill:#422006,stroke:#f59e0b,stroke-width:2px,color:#fef3c7
-    classDef out fill:#052e1b,stroke:#10b981,stroke-width:2px,color:#d1fae5
+    classDef acq fill:#0f291f,stroke:#6ee7b7,stroke-width:2px,color:#d1fae5
+    classDef norm fill:#042f2e,stroke:#2dd4bf,stroke-width:2px,color:#ccfbf1
+    classDef cond fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#d1fae5
+    classDef bls fill:#022c22,stroke:#34d399,stroke-width:2px,color:#ecfdf5
+    classDef phys fill:#064e3b,stroke:#a7f3d0,stroke-width:2px,color:#ecfdf5
+    classDef out fill:#134e4a,stroke:#5eead4,stroke-width:2px,color:#ccfbf1
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 🎬 Transit Animation
 
@@ -108,10 +108,10 @@ a running readout tracks elapsed time and orbital phase.
 https://github.com/HassanKhalid8/Exoplanet-Transit-Detection-System/raw/main/images/Transit%20Animation.mp4
 
 <p align="center">
-  <a href="images/Transit%20Animation.mp4"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_Download_the_animation-MP4_7MB-F59E0B?style=for-the-badge" alt="Download animation"/></a>
+  <a href="images/Transit%20Animation.mp4"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_Download_the_animation-MP4_7MB-059669?style=for-the-badge" alt="Download animation"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 🧠 Signals and Systems Concepts
 
@@ -239,7 +239,7 @@ $1\ \mathrm{AU} = 1.496\times10^{11}$ m, $T_\star = 5778$ K.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 🖥️ The Application
 
@@ -273,7 +273,7 @@ A six-step control panel on the left, five visualization tabs on the right.
 That stellar variation term is deliberately given an **8.5-day** period — far slower than the
 1.09-day transit — so the detrending stage has something realistic to remove.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 📊 Measured Results
 
@@ -334,7 +334,7 @@ Since $R_p \propto \sqrt{\delta}$, a 41% depth error propagates to a ~30% radius
 exactly the gap observed. **Fix:** shrink the smoothing window (or raise the sampling density) so the
 window is a small fraction of the transit duration rather than most of it.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 🖼️ Screenshot Gallery
 
@@ -384,14 +384,14 @@ window is a small fraction of the transit duration rather than most of it.
   <br/><sub>Detection vs WASP-12b across period, depth and radius</sub>
 </td>
 <td width="50%" align="center">
-  <a href="images/Transit%20Animation.mp4"><img src="https://img.shields.io/badge/%F0%9F%8E%AC-Transit_Animation_(MP4)-F59E0B?style=for-the-badge" alt="Transit Animation"/></a>
+  <a href="images/Transit%20Animation.mp4"><img src="https://img.shields.io/badge/%F0%9F%8E%AC-Transit_Animation_(MP4)-047857?style=for-the-badge" alt="Transit Animation"/></a>
   <br/><br/><b>🎬 Transit Animation</b>
   <br/><sub>150-frame orbital animation — the planet turns red mid-transit. <a href="#-transit-animation">Play above ↑</a></sub>
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 🗃️ Validation Catalogue
 
@@ -408,7 +408,7 @@ The system scores its detection against five real exoplanets from the NASA Exopl
 The spread here is deliberate — depths range over **two orders of magnitude**, from a 1.4% hot-Jupiter
 eclipse down to a 0.013% super-Earth whisper.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 🚀 Quick Start
 
@@ -436,7 +436,7 @@ Then, to reproduce the results above:
 **Using your own data:** a CSV or TXT file with columns `time, flux` and an optional third
 `flux_error` column. Flux is auto-normalized to a median of 1.0, and non-finite samples are dropped.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 📁 Repository Layout
 
@@ -471,7 +471,7 @@ Exoplanet-Transit-Detection-System/
     └── Transit Animation.mp4
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 🔮 Limitations and Future Work
 
@@ -507,7 +507,7 @@ Also assumed and worth relaxing: a fixed **solar-mass, 5778 K host star** (both 
 albedo in the equilibrium-temperature calculation, and no limb darkening — real transits are
 U-shaped rather than truly rectangular, which is part of why a box template under-fits the depth.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:10b981,100:34d399&height=3" width="100%"/>
 
 ## 📚 References
 
@@ -519,7 +519,7 @@ U-shaped rather than truly rectangular, which is part of why a box template unde
 📄 **[Read the full project report →](docs/Exoplanet%20Detection%20System%20Report.pdf)**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,55:2e1065,100:0b1026&height=140&section=footer&text=Detrend%20%C2%B7%20Fold%20%C2%B7%20Correlate%20%C2%B7%20Discover&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,55:065f46,100:04120c&height=140&section=footer&text=Detrend%20%C2%B7%20Fold%20%C2%B7%20Correlate%20%C2%B7%20Discover&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
